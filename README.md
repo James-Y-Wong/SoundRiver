@@ -4,8 +4,8 @@ By: Ali Baker, James Wong and Jessie Doherty
 
 ## Deployed site's URLs:
 
-- GitHub Repo: https://github.com/AliBakerCodes/SoundRiver
-- GitHub Pages: https://alibakercodes.github.io/SoundRiver/
+- GitHub Repo: https://github.com/James-Y-Wong/SoundRiver
+- GitHub Pages: https://james-y-wong.github.io/SoundRiver/
 - Google Slides Presentation: https://docs.google.com/presentation/d/1mdQqN_EmWeP6TkX70W0P3Sr9Q9E_owxQe3TXup7mfRg/edit#slide=id.p
 
 ## Concept:
@@ -37,7 +37,7 @@ We've gone through the following process:
 
 ## The Homepage:
 
-The [homepage](https://alibakercodes.github.io/SoundRiver/) presents the following:
+The [homepage](https://james-y-wong.github.io/SoundRiver/) presents the following:
 
 - A simple, elegant, and well thought-out UI.
   - The header only includes the title of the site;
@@ -93,6 +93,31 @@ The following image demonstrates the footer's appearance and functionality:
 - Reach out to sponsors.
 - Advertise the site via multiple channels.
 
-## In conclusion:
+## License:
+
+MIT License
+ 
+Copyright (c) 2022 James Wong
+ 
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+ 
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+ 
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+## In Conclusion:
 
 Our team members have leveraged their individual skills and demonstrated the spirit of teamwork during the development of this website. Due to the limitation of time and our skills, we were only able to present the basic functionalities of this site. There's still a lot to learn, we hope to work together continoulsy to improve this website.
